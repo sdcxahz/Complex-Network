@@ -1,0 +1,7 @@
+echo "# Complex-Network" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sdcxahz/Complex-Network.git
+git push -u origin master
+https://www.complexityexplorer.org/courses
